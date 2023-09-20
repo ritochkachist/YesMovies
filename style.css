@@ -1,0 +1,68 @@
+.header {
+  margin: 20px; 
+  display: flex;
+  align-items: center;
+  font-family: 'Gloock', serif;
+  color: rgb(0,28,0);
+}
+
+img {
+  width: 100px;
+}
+
+.header img {
+  margin-right: 10px; 
+}
+
+body {
+  background-image:url(https://cdn.glitch.global/f8010614-5504-4311-8ff6-b3e198f1fccd/georgia-vagim-ny-lHmsHYHk-unsplash.jpg?v=1693966859126);
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+  justify-content: flex-start;
+  color: darkred;
+  font-family: 'Chonburi', cursive;
+}
+
+div {
+  background-color: rgb;
+  width: 95%;
+  text-align: center;
+
+
+}
+h2{
+  text-align: center;
+}
+
+h3{
+  margin-top: 20px;
+  padding: 2px;
+}
+
+h4 {
+  color: sienna;
+  margin-top: 10px;
+}
+
+a {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+button {
+  background-color: peru;
+  color: white;
+  font-family: 'Yeseva One', cursive;
+  border: 2;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+}
